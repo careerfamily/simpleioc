@@ -1,0 +1,15 @@
+target/
+__pycache__/
+bin/
+.Python
+include/
+lib/
+pip-selfcheck.json
+.coverage
+.idea/
+.DS_Store
+
+# caught me being lazy... and taking more time to type this comment than
+# Fix this in the file  ~/.config/git/ignore
+*.swp
+
