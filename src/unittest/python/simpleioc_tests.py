@@ -1,7 +1,7 @@
 from threading import Thread
 import unittest
 import gc
-from rodenioc import Container, RegistrationUsage, RegistrationNotFoundError
+from simpleioc import Container, RegistrationUsage, RegistrationNotFoundError
 
 
 class ContainerTests(unittest.TestCase):
